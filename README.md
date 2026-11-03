@@ -103,3 +103,7 @@ Course notes, labs, and data files, organized by class date.
 - Notes: [Dictionaries](10_29_dictionaries.ipynb)
 - Lab: [Lab 11: Zipcode Analysis with Dictionaries and JSON Files](Lab11_DictionariesJSON.ipynb) **Due Nov 5th**
 - Data: [cs_dept_phonebook.json](data/cs_dept_phonebook.json), [numberlist.json](data/numberlist.json), [zipcodes.json](data/zipcodes.json)
+
+## November 3, 2026
+
+- Notes: [Graphical User Interfaces](11_03_gui.ipynb)

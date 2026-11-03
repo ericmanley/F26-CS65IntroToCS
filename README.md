@@ -91,12 +91,10 @@ Course notes, labs, and data files, organized by class date.
 ## October 22, 2026
 
 - Notes: [Function Tracing](10_22_function_tracing.ipynb)
-- Lab work: possible time for ongoing assignments; no specific lab identified in the notes.
 
 ## October 27, 2026
 
 - Notes: [For Loops](10_27_for_loops.ipynb)
-- Lab work: possible time for ongoing assignments; no specific lab identified in the notes.
 
 ## October 29, 2026
 

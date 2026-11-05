@@ -105,3 +105,9 @@ Course notes, labs, and data files, organized by class date.
 ## November 3, 2026
 
 - Notes: [Graphical User Interfaces](11_03_gui.ipynb)
+
+
+## November 5, 2026
+
+- Notes: [Graphical User Interfaces Continued](11_03_project_nicegui_continued.ipynb)
+- Project: [CS 65 Course Project](CS65_project.ipynb) **Due Dec 9th**

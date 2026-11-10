@@ -111,3 +111,7 @@ Course notes, labs, and data files, organized by class date.
 
 - Notes: [Graphical User Interfaces Continued](11_03_project_nicegui_continued.ipynb)
 - Project: [CS 65 Course Project](CS65_project.ipynb) **Due Dec 9th**
+
+## November 10, 2026
+
+- Notes: [Tuples, Image Processing, and Nested For Loops]

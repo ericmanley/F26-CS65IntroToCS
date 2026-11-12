@@ -115,3 +115,8 @@ Course notes, labs, and data files, organized by class date.
 ## November 10, 2026
 
 - Notes: [Tuples, Image Processing, and Nested For Loops](11_10_tuples_image_processing.ipynb)
+
+## November 12, 2026
+
+- Notes: [Objects and Classes](11_12_objects_classes.ipynb)
+- Quiz preparation: [Vocabulary List](cs65_vocabulary.ipynb)

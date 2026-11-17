@@ -120,3 +120,7 @@ Course notes, labs, and data files, organized by class date.
 
 - Notes: [Objects and Classes](11_12_objects_classes.ipynb)
 - Quiz preparation: [Vocabulary List](CS65_vocabulary.ipynb)
+
+## November 17, 2026
+
+- Notes: [Designing Classes](11_17_class_design.ipynb)

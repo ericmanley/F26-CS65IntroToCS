@@ -124,3 +124,7 @@ Course notes, labs, and data files, organized by class date.
 ## November 17, 2026
 
 - Notes: [Designing Classes](11_17_class_design.ipynb)
+
+## November 19, 2026
+
+- Lab: [Lab 12: BankAccount Class](Lab12_Classes.ipynb)

@@ -128,3 +128,7 @@ Course notes, labs, and data files, organized by class date.
 ## November 19, 2026
 
 - Lab: [Lab 12: BankAccount Class](Lab12_Classes.ipynb)
+
+## November 24, 2026
+
+- Notes: [The Find Max/Min Algorithm and Sorting](11_24_find_max_min_sorting.ipynb)
